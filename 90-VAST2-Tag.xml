@@ -19,7 +19,7 @@
 					</ClickThrough>
 					</VideoClicks>
 					<MediaFiles>
-						<MediaFile height="396" width="600" bitrate="496" type="video/mp4" delivery="progressive">
+						<MediaFile height="720" width="1280" bitrate="2000" type="video/mp4" delivery="progressive">
 							<![CDATA[https://iab-publicfiles.s3.amazonaws.com/vast/VAST-4.0-Short-Intro.mp4]]>
 						</MediaFile>
 					</MediaFiles>

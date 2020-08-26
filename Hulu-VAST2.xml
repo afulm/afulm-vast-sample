@@ -1,0 +1,31 @@
+<VAST version="2.0">
+	<Ad id="hulu-house-ad-for-deep-intent">
+		<InLine>
+		<AdSystem>2.0</AdSystem>
+		<AdTitle>5748406</AdTitle>
+		<Impression id="blah">
+		<![CDATA[
+		http://www.test.com/impressionbeacon
+		]]>
+		</Impression>
+		<Creatives>
+			<Creative>
+				<Linear>
+					<Duration>00:00:15</Duration>
+					<TrackingEvents></TrackingEvents>
+					<VideoClicks>
+					<ClickThrough id="scanscout">
+					<![CDATA[ http://www.hulu.com ]]>
+					</ClickThrough>
+					</VideoClicks>
+					<MediaFiles>
+						<MediaFile height="1080" width="1920" bitrate="20000" type="video/mp4" delivery="progressive">
+							<![CDATA[https://cdn.deepintent.com/hulu/HuluHouseAd.mp4]]>
+						</MediaFile>
+					</MediaFiles>
+				</Linear>
+			</Creative>
+		</Creatives>
+		</InLine>
+	</Ad>
+</VAST>
